@@ -1,0 +1,26 @@
+﻿<Window x:Class="Final_POE.InsertRecipe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_POE"
+        mc:Ignorable="d"
+        Title="Insert A Recipe" Height="252" Width="568">
+    <Grid x:Name="frmInsertRecipe1" Margin="0,0,0,-6">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="0.13"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <!-- Header Label -->
+        <Label x:Name="lblRecipeName" Content="Add any recipe you would like " HorizontalAlignment="Center" Margin="0,48,0,0" VerticalAlignment="Top" FontSize="15" FontFamily="Rockwell" Width="416"/>
+
+        <!-- Recipe Name Textbox -->
+        <TextBox x:Name="txtRecipeName" HorizontalAlignment="Center" Margin="0,98,0,0" VerticalAlignment="Top" Width="120" Text="" SelectionOpacity="0.3" />
+
+        <!-- Next Step Button -->
+        <Button x:Name="btnNameComplete" Content="Next Step" HorizontalAlignment="Center" Margin="0,157,0,0" VerticalAlignment="Top" Height="22" Width="67" IsEnabled="True" Click="btnNameComplete_Click"/>
+    </Grid>
+</Window>

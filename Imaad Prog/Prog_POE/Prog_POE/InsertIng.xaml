@@ -1,0 +1,73 @@
+﻿<Window x:Class="Final_POE.InsertIng"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_POE"
+        mc:Ignorable="d"
+        Title="Insert Ingredients" Height="450" Width="839">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblIngredientMessage" Content="Insert Ingredients" 
+               HorizontalAlignment="Center" VerticalAlignment="Top" 
+               FontSize="20" FontFamily="Rockwell" Grid.Row="0" Grid.ColumnSpan="3"/>
+
+        <Label x:Name="lblIngredientName" Content="Enter The Ingredient Name:" 
+               HorizontalAlignment="Right" VerticalAlignment="Center" 
+               FontSize="14" Grid.Row="1" Grid.Column="0"/>
+        <TextBox x:Name="txtIngName" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                 TextWrapping="Wrap" Width="200" FontSize="14" Grid.Row="1" Grid.Column="1"/>
+
+        <Label x:Name="lblIngredientQuantity" Content="Enter The Quantity:" 
+               HorizontalAlignment="Right" VerticalAlignment="Center" 
+               FontSize="14" Grid.Row="2" Grid.Column="0"/>
+        <TextBox x:Name="txtIngQuantity" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                 TextWrapping="Wrap" Width="200" FontSize="14" Grid.Row="2" Grid.Column="1"/>
+
+        <Label x:Name="lblIngredientMeasurement" Content="Select The Unit of Measurement:" 
+               HorizontalAlignment="Right" VerticalAlignment="Center" 
+               FontSize="14" Grid.Row="3" Grid.Column="0"/>
+        <ComboBox x:Name="cmbUnitOfMeasurement" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                  Width="200" FontSize="14" Grid.Row="3" Grid.Column="1">
+            <ComboBoxItem Content="grams"/>
+            <ComboBoxItem Content="milliliters"/>
+            <ComboBoxItem Content="cups"/>
+            <ComboBoxItem Content="teaspoons"/>
+            <ComboBoxItem Content="tablespoon"/>
+        </ComboBox>
+
+        <Label x:Name="lblIngredientCalories" Content="Enter The Number of Calories (per single ingredient):" 
+               HorizontalAlignment="Right" VerticalAlignment="Center" 
+               FontSize="14" Grid.Row="4" Grid.Column="0"/>
+        <TextBox x:Name="txtCalories" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                 TextWrapping="Wrap" Width="200" FontSize="14" Grid.Row="4" Grid.Column="1"/>
+
+        <Label x:Name="lblFoodGroup" Content="Select The Food Group That The Ingredient Belongs To:" 
+               HorizontalAlignment="Right" VerticalAlignment="Center" 
+               FontSize="14" Grid.Row="5" Grid.Column="0"/>
+        <ComboBox x:Name="cmbFoodGroup" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                  Width="200" FontSize="14" Grid.Row="5" Grid.Column="1">
+            <ComboBoxItem Content="Grains"/>
+            <ComboBoxItem Content="Fruits"/>
+            <ComboBoxItem Content="Vegetables"/>
+            <ComboBoxItem Content="Protein"/>
+            <ComboBoxItem Content="Dairy"/>
+        </ComboBox>
+
+        <Button x:Name="btnAddNewIng" Content="Add Ingredient" HorizontalAlignment="Center" 
+                VerticalAlignment="Top" Height="39" Width="150" FontSize="14" Grid.Row="6" Grid.Column="0"/>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Center" 
+                VerticalAlignment="Top" Height="39" Width="150" FontSize="14" Grid.Row="6" Grid.Column="1"/>
+        <Button x:Name="btnProceed" Content="Proceed" HorizontalAlignment="Center" 
+                VerticalAlignment="Top" Height="39" Width="150" FontSize="14" Grid.Row="6" Grid.Column="2"/>
+    </Grid>
+</Window>

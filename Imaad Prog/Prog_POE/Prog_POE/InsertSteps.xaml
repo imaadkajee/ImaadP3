@@ -1,0 +1,21 @@
+﻿<Window x:Class="Final_POE.InsertSteps"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_POE"
+        mc:Ignorable="d"
+        Title="InsertSteps" Height="283" Width="800">
+    <Grid x:Name="frmInsertSteps" Margin="0,0,0,-6">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="0.136"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="btnAddSteps" Content="Step Insert" HorizontalAlignment="Center" Margin="0,166,0,0" VerticalAlignment="Top" Height="30" Width="108" Click="btnAddSteps_Click"/>
+        <Label x:Name="lblInstructions" Content="Press the 'Enter' key to input a step, and then click the exit tab button when you're finished." HorizontalAlignment="Center" Margin="0,51,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbSteps" HorizontalAlignment="Center" Margin="0,102,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="736" Height="30" />
+
+    </Grid>
+</Window>

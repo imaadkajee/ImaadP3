@@ -1,0 +1,38 @@
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.csproj.AssemblyReference.cache
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\InsertIng.g.cs
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\InsertRecipe.g.cs
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\InsertSteps.g.cs
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\MainWindow.g.cs
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\RecipeView.g.cs
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\App.g.cs
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE_MarkupCompile.cache
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE_MarkupCompile.lref
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\bin\Debug\Prog_POE.exe.config
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\bin\Debug\Prog_POE.exe
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\bin\Debug\Prog_POE.pdb
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\InsertIng.baml
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\InsertRecipe.baml
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\InsertSteps.baml
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\MainWindow.baml
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\RecipeView.baml
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.g.resources
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.Properties.Resources.resources
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.csproj.GenerateResource.cache
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.exe
+C:\Users\Mr. Fan Man\Desktop\Prog POE\Prog_POE\Prog_POE\obj\Debug\Prog_POE.pdb
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Prog_POE.csproj.AssemblyReference.cache
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\MainWindow.baml
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\InsertIng.g.cs
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\InsertRecipe.g.cs
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\InsertSteps.g.cs
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\MainWindow.g.cs
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\RecipeView.g.cs
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Prog_POE_MarkupCompile.cache
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Prog_POE_MarkupCompile.lref
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Prog_POE.exe
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Prog_POE.pdb
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\App.g.cs
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Imaad Prog Poe_MarkupCompile.cache
+C:\Users\idris\OneDrive\Desktop\Imaad Prog\Prog_POE\Prog_POE\obj\Debug\Imaad Prog Poe_MarkupCompile.lref
